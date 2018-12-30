@@ -20,6 +20,7 @@ function setup() {
     frameRate(30);
     // capturer.start();
     smooth();
+    
 }
 
 function doWork() {
